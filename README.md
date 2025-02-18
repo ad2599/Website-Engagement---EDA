@@ -9,12 +9,21 @@ Getting Started with Website Engagement Analysis
 The dataset we’ll be working with includes the following columns:
 
 Session Primary Channel Group: Represents the marketing channel (e.g., Direct, Organic Social).
+
 Date + Hour (YYYYMMDDHH): Indicates the specific date and hour of the session.
+
 Users: Number of users within a given time period.
+
 Sessions: Total number of sessions during that period.
+
 Engaged Sessions: Sessions where there was significant user engagement.
+
 Average Engagement Time per Session: The average duration a user spends engaged during a session.
+
 Engaged Sessions per User: The ratio of engaged sessions to total sessions per user.
+
 Events per Session: The average number of actions (events) taken during each session.
+
 Engagement Rate: The proportion of sessions that were engaged.
+
 Event Count: The total number of events recorded in the given period.
